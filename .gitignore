@@ -23,11 +23,6 @@ debug.log
 .DS_Store
 Thumbs.db
 
-
-
-# Compiled CSS files
-*.css
-
 # Sourcemaps
 *.map
 
