@@ -1,3 +1,4 @@
+import './style.css';
 export default function loadPage() {
 
     let body = document.querySelector('body');
@@ -22,6 +23,7 @@ export default function loadPage() {
 // append img to content div
     let img = document.createElement('img');
     img.src = null;
+    img.classList.add('restaurant-img');
     img.alt = 'restaurant';
     contentDiv.appendChild(img);
 
