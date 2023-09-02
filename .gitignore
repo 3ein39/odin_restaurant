@@ -23,8 +23,7 @@ debug.log
 .DS_Store
 Thumbs.db
 
-# Compiled JavaScript files
-*.js
+
 
 # Compiled CSS files
 *.css
